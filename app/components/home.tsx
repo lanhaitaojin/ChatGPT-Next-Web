@@ -173,7 +173,7 @@ function _Home() {
           </div>
           <div className={styles["sidebar-logo"]}>
             {/*<ChatGptIcon />*/}
-            <img src="/weixin.jpg" width="44px"/>
+            <img src="/logo.png" width="44px"/>
           </div>
         </div>
 
